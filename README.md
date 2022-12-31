@@ -1,0 +1,3 @@
+# BookStore
+导入src下面的sql语句创建数据库，修改src下面的c3p0配置文件更改数据库名和密码
+此项目用的是maven仓库
